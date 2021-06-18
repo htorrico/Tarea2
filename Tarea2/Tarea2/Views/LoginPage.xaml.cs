@@ -14,6 +14,7 @@ namespace Tarea2.Views
     {
         public LoginPage()
         {
+            //comentario de prueba de github
             InitializeComponent();
             this.BindingContext = new LoginViewModel();
         }
